@@ -1,3 +1,12 @@
+body{
+    background: beige;
+}
+
 h1{
-    color: aqua;
+    color: black;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
